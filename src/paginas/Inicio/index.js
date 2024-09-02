@@ -1,12 +1,13 @@
 import styles from "./Inicio.module.css"
-import posts from "json/posts.json"
+///import posts from "json/posts.json"
 import PostCard from "componentes/PostCard";
+import dias from "json/dias.json"
 
 export default function Inicio() {
 
     return (
             <ul className={styles.posts}>
-                {posts.map((post) => (
+                {dias.map((post) => (
                     <li key={post.id}>
                          <PostCard post={post}/>    
                     </li>

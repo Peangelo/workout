@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "diaSemana": "Domingo"
+    },
+    {
+        "id": 2,
+        "diaSemana": "Segunda-feira"
+    },
+    {
+        "id": 3,
+        "diaSemana": "Terça-feira"
+    },
+    {
+        "id": 4,
+        "diaSemana": "Quarta-feira"
+    },
+    {
+        "id": 5,
+        "diaSemana": "Quinta-feira"
+    },
+    {
+        "id": 6,
+        "diaSemana": "Sexta-feira"
+    },
+    {
+        "id": 7,
+        "diaSemana": "Sábado"
+    }
+]
